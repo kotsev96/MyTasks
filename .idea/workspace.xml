@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32a3e10c-9fea-4946-9a73-e16b48f13f26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/AutoBox/AutoBox2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/AutoBox/AutoBox3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/AutoBox/Quadratic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Collection/ArrayListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Collection/ArrayListToArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Collection/HashSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Collection/LinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Collection/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Collection/TreeSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/CopyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/EnumDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/EnumDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/EnumDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/EnumDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/EnumDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/TrafficLightColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/TrafficLightDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/TrafficLightSimulator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/TrafficLightSimulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/Transport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/Transport1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/Transport2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Enumeration/Transprt4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/FileOut/File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/FileOut/File2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/ForTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/GalToLit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Generics/BoundsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Generics/Gen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Generics/GenDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Generics/GenericMethodDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Generics/NumericFns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush/Hard5_1$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush/Hard5_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush10/Easy1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush10/Easy2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush10/Easy3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush10/Easy4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush10/Med6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush10/Mid5$Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush10/Mid5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush10/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/BelorusianHen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Bridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/BubblyWine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/CompItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Drink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy1$Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy1$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy1$Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy1$Lamp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy2$Alcoholic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy2$BeerLover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy2$Drinker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy3$AlcoholicBeer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy3$Drink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy4$Beer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy4$Cola.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy4$Drink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy5$Screen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy5$Selectable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy5$Updatable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy8$Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy8$Fox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy9$Today.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Easy9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Hen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Keyboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med10$DBObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med10$Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med10$User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med11$SimpleObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med11$StringObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med12$Dancer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med12$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med12$Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med13$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med13$CatFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med13$FemaleCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med13$MaleCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med14$Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med14$Selectable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med15$HenFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med19$OceanAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med19$Orca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med19$Otter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med19$Swimmable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med19$Walkable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med19$Whale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med22$Apartment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med22$OneRoomApt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med22$ThreeRoomApt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med22$TwoRoomApt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med6$Desire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med6$Dream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med6$Hobby.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med7$DBObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med7$Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med7$User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Med7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/MoldovanHen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Monitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/RussianHen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/SuspensionBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/UkrainianHen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/WaterBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Weather.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/WeatherType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush11_12_13_14/Wine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy1$Clothes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy1$Discountable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy1$Movable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy1$Sellable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy2$BigAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy2$Dragon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy2$Goose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy2$SmallAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy7$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Easy7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Hard4$AgathaChristieBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Hard4$Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Hard4$MarkTwainBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Hard4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med3$CheapCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med3$Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med3$Ferrari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med3$Lanos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med3$LuxuriousCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med5$BodyPart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med5$Finger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med5$LivingPart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush15/Med9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/Array2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/Array3Hard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/Array4Hard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/Array5Easy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/ArrayList10Medium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/ArrayList11Easy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/ArrayList6Hard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/ArrayList7Medium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/ArrayList8Hard$Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/ArrayList8Hard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/ArrayList9Medium$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush7/ArrayList9Medium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Collection1Hard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Hard10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Hard2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Hard5$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Hard5$Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Hard5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Hard7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Hard8$Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Hard8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Medium3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Medium6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush8/Medium9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy4$MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy4$MyException2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy4$MyException3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy4$MyException4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Easy6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Hard8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Hard9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med10$Grandmother.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med10$LittleRedRidingHood.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med10$Patty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med10$StoryItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med10$Wolf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med10$Woodman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med12$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/JavaRush9/Med7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/BlockLambdaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/GenericFunctionalinterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/IntPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/LambdaArgumentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/LambdaDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/LammbdaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/MethodRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/MyFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/MyIntPredicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/MyParamValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/MyValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/NumericFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/NumericTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/SomeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/StringFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/StringTest$LambdaDemoЗ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/UsePredicateInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Lambda/VarCapture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/CompFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/ExtendThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/FileHelp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/Help.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/MyThrread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/Priority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/PriorityDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/ThreadCom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/TickTock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/UseThreadsimproved.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Multithreading/helpfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/SmallestIntegerFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Test/AbleToEat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Test/AnonClass$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Test/AnonClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/Test/ArrayListMedium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/bookpack/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/bookpack/BookDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/Solution7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/CircularQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/DynQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/ExcDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/ExcTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/FixedQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/ICharQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/IQDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Shapes4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Solution3332.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Solution5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Solution6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Solution9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/ThrowDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/TruckDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/TwoDShape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/java/test2/Vehicle1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/ArrayDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/AssignARef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/BlockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Break5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Bubble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/CompFuel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/DecrFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/DemoClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/ErrMsg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/ErrorMsg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/FDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/FSDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Factor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/FailSoftArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Finalize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/ForEach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Friend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/GalToLitTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Guess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Guess4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Help.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Help2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Help3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/HelpClassDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Hypot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/IfDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Inches.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Ladder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/LengthDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/LogicalOpTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/NoBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/QDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/QDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/QSDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Queue1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Quicksort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Ragged.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/ShowBitsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Showbits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Solution$Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Solution$Woman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Sound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/SqrRoot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/StrDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/TwoD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/UpCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/VarInitDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/WhileDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/choice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/javarush/test/isFact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutoBox/AutoBox2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutoBox/AutoBox3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutoBox/Quadratic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ArrayListToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeration/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeration/EnumDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeration/EnumDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeration/EnumDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeration/TrafficLightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileOut/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileOut/File2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GalToLit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Gen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/NumericFns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush/Hard5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush10/Easy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush10/Easy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush10/Easy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush10/Easy4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush10/Med6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush10/Mid5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush10/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Easy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Easy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Easy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Easy4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Easy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Easy8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Easy9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Hard15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush11_12_13_14/Med7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Easy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Easy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Easy7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Hard14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Hard18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Hard4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush15/Med9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Easy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Easy17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Easy18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Easy19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Easy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Easy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Easy9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Hard14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Hard20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Hard21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Hard22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Hard23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Hard24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Hard6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush16/Med8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Easy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Easy6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard7/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard7/Dishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard7/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard7/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard7/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard7/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Hard7/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Med2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Med3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Med4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Med5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Med8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush17/Med9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/Array3Hard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/Array4Hard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/Array5Easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/ArrayList10Medium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/ArrayList11Easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/ArrayList6Hard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/ArrayList7Medium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/ArrayList8Hard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush7/ArrayList9Medium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Collection1Hard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Hard10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Hard2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Hard5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Hard7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Hard8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Medium3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Medium6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush8/Medium9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Easy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Easy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Easy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Easy4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Easy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Easy6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Hard8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Hard9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Med10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Med11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Med12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush9/Med7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/BlockLambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/GenericFunctionalinterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/LambdaArgumentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/LambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/LambdaDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/LammbdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/MethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/UsePredicateInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/VarCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/CompFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/ExtendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/FileHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/UseThreadsimproved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/helpfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmallestIntegerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/AnonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/ArrayListMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookpack/BookDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Solution7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/ExcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/ICharQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/IQDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/Solution3332.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/Solution6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/Solution9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/TruckDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/test2/TwoDShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/AssignARef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/BlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Break5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/DecrFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/ErrorMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/FailSoftArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Finalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/GalToLitTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Guess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Guess4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Help2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Help3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/HelpClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Hypot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/IfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Inches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/LengthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/LogicalOpTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/NoBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/QDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/QDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/QSDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Ragged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/ShowBitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/SqrRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/StrDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/TwoD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/UpCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/VarInitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/WhileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/test/choice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e2WdHuCFECzHXGIP2P0XaIBIyR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="JavaRush9" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Restaurant">
+    <configuration name="Easy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaRush17.Easy1" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaRush17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Easy6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaRush17.Easy6" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaRush17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hard23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaRush16.Hard23" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaRush16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hard24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaRush16.Hard24" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaRush16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaRush17.Hard7.Restaurant" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaRush17.Hard7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Restaurant" />
+        <item itemvalue="Application.Easy6" />
+        <item itemvalue="Application.Easy1" />
+        <item itemvalue="Application.Hard24" />
+        <item itemvalue="Application.Hard23" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a3e10c-9fea-4946-9a73-e16b48f13f26" name="Default Changelist" comment="" />
+      <created>1593520254058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593520254058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="0" key="#Hard14" timestamp="1597998747267">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#Hard14/0.0.1280.680@0.0.1280.680" timestamp="1597998747267" />
+    <state x="267" y="19" key="#Inspections" timestamp="1595578964899">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1595578964899" />
+    <state x="415" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596877848341">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="415" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596877848341" />
+    <state x="769" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1598350830341">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="769" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1598350830341" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598281758573">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598281758573" />
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1598292823677">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1598292823677" />
+    <state x="399" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596271409841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1596271409841" />
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1598366281702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598366281702" />
+    <state x="465" y="242" key="Github.CreateGistDialog" timestamp="1597993196983">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="465" y="242" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1597993196983" />
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1598343689683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598343689683" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1598343689682">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598343689682" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1598343689682">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598343689682" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1598343689682">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598343689682" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1598342538792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598342538792" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1598342538792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598342538792" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1598342538792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598342538792" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1598342538792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598342538792" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1598366159494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598366159494" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1597993248985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597993248985" />
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596802085712">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1596802085712" />
+    <state x="451" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598181529069">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="451" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1598181529069" />
+    <state x="412" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597384949839">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1597384949839" />
+    <state x="210" y="51" width="860" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598003690387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="210" y="51" width="860" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1598003690387" />
+    <state x="0" y="0" width="589" height="680" key="find.popup" timestamp="1596895203912">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="589" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1596895203912" />
+    <state x="91" y="0" key="new project wizard" timestamp="1598206526780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1598206526780" />
+    <state x="348" y="98" key="refactoring.ChangeSignatureDialog" timestamp="1597058676176">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="98" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1597058676176" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1598173235518">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1598173235518" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597520357870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597520357870" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaRush17/Hard7/Restaurant.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaRush17/Hard7/Waiter.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaRush17/Hard7/Waiter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
