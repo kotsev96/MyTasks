@@ -41,5 +41,6 @@ public class AutoBox2 {
         iOb = 100;
         System.out.
                 println("Kopeнь квадратный из iOb: " + Math.sqrt(iOb));
+        System.out.println("donvj");
     }
 }
